@@ -1,6 +1,6 @@
 # Arknights Agents Roster
 Just an idea when I got nothing to do during the events [火藍之心](http://wiki.joyme.com/arknights/SideStory%E3%80%8C%E7%81%AB%E8%93%9D%E4%B9%8B%E5%BF%83%E3%80%8D%E5%8D%B3%E5%B0%86%E5%BC%80%E5%90%AF)
-![image1](https://i.imgur.com/t6mDQPZ.png)
+![image1](https://i.imgur.com/t6mDQPZ.png) 
 
 ## Tech Using
 ```
@@ -11,7 +11,7 @@ Just an idea when I got nothing to do during the events [火藍之心](http://wi
 
 ## User Guide - How to use it
 ```
-1. Click the floating button in the nottom right
+1. Click the floating button in the bottom right
 2. Select the label which rlated to your target agents
 3. that's all
 ```
