@@ -15,7 +15,7 @@
               <a href="#">System check processing ...</a>
             </h1>
             <p class="text">Permission check successfull ... <br> Welcome back, DR.</p>
-            <a href="#" class="button">Read more</a>
+            <a href="https://github.com/WilsonLTL/Arknights_Agents_Roster" class="button">Read more</a>
           </div>
         </div>
       </div>

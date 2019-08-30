@@ -32,6 +32,12 @@ Just an idea when I got nothing to do during the events [火藍之心](http://wi
 Icons - https://aceship.github.io
 ```
 
+## TODO List
+```
+1. 幹員詳細個人資料
+2. 基建技能
+```
+
 ## Screen shoot
 ![image2](https://i.imgur.com/YeGeJ7j.png)
 ![image3](https://i.imgur.com/h21RCee.jpg)
