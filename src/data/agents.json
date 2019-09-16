@@ -332,6 +332,16 @@
         },
         {
           "avatar": "https://img.moegirl.org/common/thumb/e/e7/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F%E5%85%88%E9%94%8B%E9%BB%91.png/50px-%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F%E5%85%88%E9%94%8B%E9%BB%91.png",
+          "desc": "我來報到啦！你就是博士對吧？可以叫我桃金娘，杜林族的桃金娘。杜林說在這裡能找到工作，所以，有什麼我能做的事嗎？別看我個子小，我還挺厲害的哦。",
+          "eName": "Myrtle",
+          "img": "https://i.imgur.com/dr3yzXW.png",
+          "label": ["資深幹員","先鋒幹員","女性幹員","近戰位","費用回復","治療","公開招募不可"],
+          "name": "桃金娘",
+          "rating": 5,
+          "story": ""
+        },
+        {
+          "avatar": "https://img.moegirl.org/common/thumb/e/e7/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F%E5%85%88%E9%94%8B%E9%BB%91.png/50px-%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F%E5%85%88%E9%94%8B%E9%BB%91.png",
           "desc": "請問，這裡是Dr.xxx的辦公室嗎，我找博士很久了，麻煩你......什麼？你就是博士？哼哼，幹員紅豆來報導了！",
           "eName": "Vigna",
           "img": "https://img.moegirl.org/common/d/d7/Vigna_MODE2.png",
@@ -432,6 +442,16 @@
         },
         {
           "avatar": "https://img.moegirl.org/common/thumb/2/22/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F%E8%BF%91%E5%8D%AB%E9%BB%91.png/50px-%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F%E8%BF%91%E5%8D%AB%E9%BB%91.png",
+          "desc": "赫拉格，一介被感染了的武夫。為了重建我的診所'阿撒茲勒'以及保護我的家人，我願意和羅德島合作。事先聲明，我不懂醫術。",
+          "eName": "Hellagur",
+          "img": "https://i.imgur.com/oFOszSW.png",
+          "label": ["高級資深幹員","近衛幹員","男性幹員","近戰位","輸出","生存","公開招募不可"],
+          "name": "赫拉格",
+          "rating": 6,
+          "story": ""
+        },
+        {
+          "avatar": "https://img.moegirl.org/common/thumb/2/22/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F%E8%BF%91%E5%8D%AB%E9%BB%91.png/50px-%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F%E8%BF%91%E5%8D%AB%E9%BB%91.png",
           "desc": "龍門高級警司詩懷雅，現在，作為訓練顧問，受聘於羅德島。博士，為了龍門的未來，我們兩人可得好好相處！",
           "eName": "Swire",
           "img": "https://img.moegirl.org/common/8/85/Char_308_swire_2b.png",
@@ -487,6 +507,16 @@
           "img": "https://img.moegirl.org/common/4/41/Char_143_ghost_2.png",
           "label": ["資深幹員","近衛幹員","女性幹員","近戰位","群攻","生存"],
           "name": "幽靈鯊",
+          "rating": 5,
+          "story": ""
+        },
+        {
+          "avatar": "https://img.moegirl.org/common/thumb/2/22/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F%E8%BF%91%E5%8D%AB%E9%BB%91.png/50px-%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F%E8%BF%91%E5%8D%AB%E9%BB%91.png",
+          "desc": "星象學者，星極，以近衛幹員身份任職，今後就由您差遣了，博士。",
+          "eName": "Astesia",
+          "img": "https://i.imgur.com/qIXy8tu.png",
+          "label": ["資深幹員","近衛幹員","女性幹員","輸出","防護"],
+          "name": "星極",
           "rating": 5,
           "story": ""
         },
@@ -854,7 +884,7 @@
           "desc": "我是來自敘拉古的信使，安心院安潔莉娜。嗯，叫我安潔莉娜就可以了。我能用xxxx來稱呼博士你嗎？",
           "eName": "Angelina",
           "img": "https://img.moegirl.org/common/2/26/Angelina2.png",
-          "label": ["高級資深幹員","醫療幹員","女性幹員","遠程位","減速","輸出","支援","公開招募不可"],
+          "label": ["高級資深幹員","輔助幹員","女性幹員","遠程位","減速","輸出","支援","公開招募不可"],
           "name": "安潔莉娜",
           "rating": 6,
           "story": ""
@@ -864,7 +894,7 @@
           "desc": "幹員格勞克斯，今日報到。請問我可以回房間了嗎？",
           "eName": "Glaucus",
           "img": "https://img.moegirl.org/common/9/90/Char_326_glacus_2b.png",
-          "label": ["資深幹員","醫療幹員","男性幹員","遠程位","減速","控場","公開招募不可"],
+          "label": ["資深幹員","輔助幹員","女性幹員","遠程位","減速","控場","公開招募不可"],
           "name": "格勞克斯",
           "rating": 5,
           "story": ""
@@ -874,7 +904,7 @@
           "desc": "噓，我是偷偷跑出來——啊，嗯，人事主管你也在啊，是的，我是來協助羅德島的。喀蘭聖女，初雪，向你獻上至潔的祝福。",
           "eName": "Pramanix",
           "img": "https://img.moegirl.org/common/b/bf/Char_174_slbell_2.png",
-          "label": ["資深幹員","醫療幹員","女性幹員","遠程位","削弱"],
+          "label": ["資深幹員","輔助幹員","女性幹員","遠程位","削弱"],
           "name": "初雪",
           "rating": 5,
           "story": ""
@@ -884,7 +914,7 @@
           "desc": "萊茵生命所屬，魯特拉工作室，竭誠為您服務。是的，沒有其他成員，我一個人就是整個工作室。很厲害吧！",
           "eName": "Mayer",
           "img": "https://img.moegirl.org/common/9/9f/Char_242_otter_2b.png",
-          "label": ["資深幹員","醫療幹員","女性幹員","遠程位","召喚","控場"],
+          "label": ["資深幹員","輔助幹員","女性幹員","遠程位","召喚","控場"],
           "name": "梅爾",
           "rating": 5,
           "story": ""
@@ -894,7 +924,7 @@
           "desc": "(｡･∀･)ﾉﾞ嗨！我是來自MSR的，大家的偶像空~！呃，抱歉抱歉~這種風格的自我介紹，好像不太合適羅德島吧。嗚......",
           "eName": "Sora",
           "img": "https://img.moegirl.org/common/a/a9/Char_101_sora_2.png",
-          "label": ["資深幹員","醫療幹員","女性幹員","遠程位","治療","支援","公開招募不可"],
+          "label": ["資深幹員","輔助幹員","女性幹員","遠程位","治療","支援","公開招募不可"],
           "name": "空",
           "rating": 5,
           "story": ""
@@ -904,7 +934,7 @@
           "desc": "我是真理，雖然還是一名學生，卻因為會使用法術，所以就被招募了......是啊，身為學生卻站在這種地方，真是奇怪，不是嗎？",
           "eName": "Истина",
           "img": "https://img.moegirl.org/common/f/fa/Char_195_glassb_2b.png",
-          "label": ["資深幹員","醫療幹員","女性幹員","遠程位","減速","輸出"],
+          "label": ["資深幹員","輔助幹員","女性幹員","遠程位","減速","輸出"],
           "name": "真理",
           "rating": 5,
           "story": ""
@@ -914,7 +944,7 @@
           "desc": "地靈，地質學者兼術師，向你報導。我每天的工作時間是八小時，如果加班的話要額外支付加班費。",
           "eName": "Earthspirit",
           "img": "https://img.moegirl.org/common/7/79/Char_183_skgoat_2.png",
-          "label": ["醫療幹員","女性幹員","遠程位","減速"],
+          "label": ["輔助幹員","女性幹員","遠程位","減速"],
           "name": "地靈",
           "rating": 4,
           "story": ""
@@ -924,7 +954,7 @@
           "desc": "請叫我“深海色”。我的職業是畫家，對，只是一個“畫家”哦。",
           "eName": "Deepcolor",
           "img": "https://img.moegirl.org/common/6/69/Char_110_deepcl_2.bmp.merge.png",
-          "label": ["醫療幹員","女性幹員","遠程位","召喚","公開招募不可"],
+          "label": ["輔助幹員","女性幹員","遠程位","召喚","公開招募不可"],
           "name": "深海色",
           "rating": 4,
           "story": ""
@@ -934,7 +964,7 @@
           "desc": "預備行動組A6的組長，梓蘭，前來報導。您就是Dr.xxx嗎，接下來的工作請多多關照。",
           "eName": "Orchid",
           "img": "https://img.moegirl.org/common/d/da/Char_278_orchid_1.png",
-          "label": ["醫療幹員","女性幹員","遠程位","減速"],
+          "label": ["輔助幹員","女性幹員","遠程位","減速"],
           "name": "梓蘭",
           "rating": 3,
           "story": ""
@@ -954,7 +984,7 @@
           "desc": "獵狼人，紅，聞到了狼的氣息。",
           "eName": "Projekt Red",
           "img": "https://img.moegirl.org/common/a/a5/Hong2.png",
-          "label": ["資深幹員","特種干員","女性幹員","近戰位","快速復活","控場","公開招募不可"],
+          "label": ["資深幹員","特種干員","女性幹員","近戰位","快速復活","控場"],
           "name": "紅",
           "rating": 5,
           "story": ""

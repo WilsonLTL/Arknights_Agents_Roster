@@ -8,6 +8,7 @@ module.exports = {
           favicon32: 'icons/mipmap-ldpi/ic_launcher.png',
           favicon16: 'icons/mipmap-ldpi/ic_launcher.png',
           appleTouchIcon: 'icons/mipmap-mdpi/ic_launcher.png'
-        }
+        },
+        themeColor: "#000000"
     }
 }
