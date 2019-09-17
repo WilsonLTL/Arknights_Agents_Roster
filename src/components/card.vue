@@ -20,15 +20,36 @@
       <span class="grey--text subtitle-2">{{desc}}</span>
     </v-card-title>
 
-    <!-- <v-card-actions>
+    <v-card-actions>
       <v-btn icon @click="show = !show">
         <v-icon>{{ show ? 'keyboard_arrow_up' : 'keyboard_arrow_down' }}</v-icon>
       </v-btn>
-    </v-card-actions> -->
+    </v-card-actions>
 
     <v-expand-transition>
       <div v-show="show">
-        <v-card-text>{{story}}</v-card-text>
+        <div  v-if="skills.length > 0">
+          <span class="headline" style="margin: 20px">幹員技能</span>
+          <v-divider></v-divider>
+          <v-col v-for="(item, i) in skills" :key="i">
+            <v-card outlined>
+              <v-list-item three-line>
+                <v-list-item-avatar size="62" tile>
+                  <v-img :src="item.skill_img"></v-img>
+                </v-list-item-avatar>
+                <v-list-item-content class="align-self-start">
+                  <div>
+                  <span v-for="label in item.skill_label" :key=label>
+                    <v-chip x-small>{{label}}</v-chip>
+                  </span>
+                  </div>
+                  <v-list-item-subtitle class="overline" v-text="'消耗:'+item.skill_cost"></v-list-item-subtitle>
+                  <v-list-item-text style="color: #BDBDBD;" class="overline" v-text="item.skill_name+' - '+item.skill_desc"></v-list-item-text>
+                </v-list-item-content>
+              </v-list-item>
+            </v-card>
+          </v-col>
+        </div>
       </div>
     </v-expand-transition>
   </v-card>
@@ -48,7 +69,8 @@ export default {
     label: Array ,
     story: String,
     rating: Number,
-    check_list: Array
+    check_list: Array,
+    skills: Array
   },
   data: () => ({
     rating_color: json.rating_color,

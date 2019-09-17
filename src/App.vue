@@ -30,6 +30,7 @@
                   :desc="item.desc"
                   :rating="item.rating"
                   :story="item.story"
+                  :skills="item.skill"
                   :check_list="check_list"
                 />
               </v-col>
@@ -83,7 +84,6 @@ import appBar from "./components/appBar";
 import card from "./components/card";
 import welcomeCard from "./components/welcomeCard";
 import json from "./data/agents.json";
-import { saveAs } from 'file-saver';
 
 export default {
   name: "App",
