@@ -401,11 +401,25 @@
           "rating": 6,
           "skill":[
             {
-              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
-              "skill_label": ["自動回復","手動觸發","20/30秒"],
-              "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
+              "skill_img": "https://img.moegirl.org/common/thumb/4/46/Skill_icon_skchr_amgoat_1.png/80px-Skill_icon_skchr_amgoat_1.png",
+              "skill_label": ["自動回復","手動觸發"],
+              "skill_cost": "45/35",
+              "skill_name": "二重詠唱",
+              "skill_desc": "攻擊速度+30/60；第二次及以後使用時追加攻擊力+30%/60%的效果"
+            },
+            {
+              "skill_img": "https://img.moegirl.org/common/thumb/d/d2/Skill_icon_skchr_amgoat_2.png/80px-Skill_icon_skchr_amgoat_2.png",
+              "skill_label": ["自動回復","手動觸發"],
+              "skill_cost": "7/5",
+              "skill_name": "點燃",
+              "skill_desc": "下次攻擊造成相當於攻擊力240%/370%的法術傷害，命中目標周圍的敵人受到一半的爆炸傷害且在6秒內法術抗性-10%/20%/25%；可充能1/3次"
+            },
+            {
+              "skill_img": "https://img.moegirl.org/common/thumb/c/c5/Skill_icon_skchr_amgoat_3.png/80px-Skill_icon_skchr_amgoat_3.png",
+              "skill_label": ["自動回復","手動觸發"],
+              "skill_cost": "80",
+              "skill_name": "火山",
+              "skill_desc": "攻擊力+55%/130%，攻擊範圍增大，攻擊間隔大幅度縮短，攻擊變為隨機對攻擊範圍內至多3/6個敵人發射熔岩"
             }
           ],
           "story": ""
@@ -420,11 +434,25 @@
           "rating": 5,
           "skill":[
             {
-              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
-              "skill_label": ["自動回復","手動觸發","20/30秒"],
-              "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
+              "skill_img": "",
+              "skill_label": ["自動回復","手動觸發","30秒"],
+              "skill_cost": "40/30",
+              "skill_name": "戰術詠唱γ型",
+              "skill_desc": "攻擊速度+30/90"
+            },
+            {
+              "skill_img": "",
+              "skill_label": ["自動回復","手動觸發","25秒"],
+              "skill_cost": "100",
+              "skill_name": "精神爆發",
+              "skill_desc": "每次攻擊變為攻擊力33%/60%的6/8連發"
+            },
+            {
+              "skill_img": "",
+              "skill_label": ["自動回復","手動觸發","30秒"],
+              "skill_cost": "120",
+              "skill_name": "奇美拉",
+              "skill_desc": "攻擊力提高100%/230%，生命上限提高25%/100%，攻擊範圍擴大，傷害無視防禦力和法術抗性"
             }
           ],
           "story": ""
@@ -439,11 +467,18 @@
           "rating": 5,
           "skill":[
             {
-              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
-              "skill_label": ["自動回復","手動觸發","20/30秒"],
-              "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
+              "skill_img": "",
+              "skill_label": ["自動回復","手動觸發"],
+              "skill_cost": "80",
+              "skill_name": "靈魂汲取",
+              "skill_desc": "對敵人造成傷害的同時會對攻擊範圍內至多1/2名友方單位恢復相當於傷害量40%/100%的生命值"
+            },
+            {
+              "skill_img": "",
+              "skill_label": ["自動回復","自動觸發"],
+              "skill_cost": "30/20",
+              "skill_name": "夜魘魔影",
+              "skill_desc": "立即對攻擊範圍內最多3/5個敵人施加夢魘效果：敵人的移動速度-60%，並根據其移動距離受到無視防禦和法術抗性的傷害，持續5/10秒"
             }
           ],
           "story": ""
@@ -458,11 +493,18 @@
           "rating": 5,
           "skill":[
             {
-              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
-              "skill_label": ["自動回復","手動觸發","20/30秒"],
-              "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
+              "skill_img": "https://img.moegirl.org/common/thumb/4/46/Skill_icon_skcom_atk_up3.png/80px-Skill_icon_skcom_atk_up3.png",
+              "skill_label": ["自動回復","手動觸發"],
+              "skill_cost": "40/30",
+              "skill_name": "攻擊力強化.γ型",
+              "skill_desc": "攻擊力+30%/100%"
+            },
+            {
+              "skill_img": "https://img.moegirl.org/common/thumb/a/a4/Skill_icon_skchr_skfire_2.png/80px-Skill_icon_skchr_skfire_2.png",
+              "skill_label": ["自動回復","手動觸發"],
+              "skill_cost": "35/25",
+              "skill_name": "夜魘魔影",
+              "skill_desc": "攻擊間隔增大，攻擊變為從天空召喚隕石；隕石需要時間降落，落地後對大範圍敵人造成相當於攻擊力170%/240%的法術傷害，並使所有命中目標暈眩0.1/1秒"
             }
           ],
           "story": ""
@@ -477,11 +519,18 @@
           "rating": 4,
           "skill":[
             {
-              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
-              "skill_label": ["自動回復","手動觸發","20/30秒"],
-              "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
+              "skill_img": "https://img.moegirl.org/common/thumb/0/04/Skill_icon_skcom_atk_up-2-.png/80px-Skill_icon_skcom_atk_up-2-.png",
+              "skill_label": ["自動回復","手動觸發"],
+              "skill_cost": "40/35",
+              "skill_name": "攻擊力強化·β型",
+              "skill_desc": "攻擊力+20%/80%"
+            },
+            {
+              "skill_img": "https://img.moegirl.org/common/thumb/f/fb/Skill_icon_skchr_nights_2.png/80px-Skill_icon_skchr_nights_2.png",
+              "skill_label": ["自動回復","手動觸發"],
+              "skill_cost": "35/25",
+              "skill_name": "赤色之瞳",
+              "skill_desc": "最大生命值-75%；攻擊力+15%/60%，攻擊速度+35/60"
             }
           ],
           "story": ""
@@ -496,11 +545,18 @@
           "rating": 4,
           "skill":[
             {
-              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
-              "skill_label": ["自動回復","手動觸發","20/30秒"],
-              "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
+              "skill_img": "https://img.moegirl.org/common/thumb/0/0c/Skill_icon_skcom_magic_rage-2-.png/80px-Skill_icon_skcom_magic_rage-2-.png",
+              "skill_label": ["自動回復","手動觸發"],
+              "skill_cost": "45/35",
+              "skill_name": "戰術詠唱·β型",
+              "skill_desc": "攻擊速度+15/75"
+            },
+            {
+              "skill_img": "https://img.moegirl.org/common/thumb/1/17/Skill_icon_skchr_fmout_2.png/80px-Skill_icon_skchr_fmout_2.png",
+              "skill_label": ["自動回復","手動觸發"],
+              "skill_cost": "100/85",
+              "skill_name": "命運",
+              "skill_desc": "攻擊力+30%/100%，攻擊範圍擴大，同時攻擊攻擊範圍內所有敵人；技能時間結束後遠山停止攻擊15/10秒"
             }
           ],
           "story": ""
@@ -515,11 +571,18 @@
           "rating": 4,
           "skill":[
             {
-              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
-              "skill_label": ["自動回復","手動觸發","20/30秒"],
-              "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
+              "skill_img": "",
+              "skill_label": ["自動回復","手動觸發"],
+              "skill_cost": "45/35",
+              "skill_name": "戰術詠唱·β型",
+              "skill_desc": "攻擊速度+15/75"
+            },
+            {
+              "skill_img": "",
+              "skill_label": ["自動回復","手動觸發"],
+              "skill_cost": "60",
+              "skill_name": "靜電釋放",
+              "skill_desc": "攻擊速度+35/65/80，天賦停頓的持續時間提升至1.5/2.0倍"
             }
           ],
           "story": ""
@@ -534,11 +597,11 @@
           "rating": 3,
           "skill":[
             {
-              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
-              "skill_label": ["自動回復","手動觸發","20/30秒"],
-              "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
+              "skill_img": "https://img.moegirl.org/common/thumb/4/49/Skill_icon_skcom_powerstrike-1-.png/80px-Skill_icon_skcom_powerstrike-1-.png",
+              "skill_label": ["攻擊回復","自動觸發"],
+              "skill_cost": "5/4",
+              "skill_name": "強力擊·α型",
+              "skill_desc": "下次攻擊的攻擊力提高至150%/190%"
             }
           ],
           "story": ""
@@ -553,11 +616,11 @@
           "rating": 3,
           "skill":[
             {
-              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
-              "skill_label": ["自動回復","手動觸發","20/30秒"],
+              "skill_img": "https://img.moegirl.org/common/thumb/f/f9/Skill_icon_skcom_magic_rage-1-.png/80px-Skill_icon_skcom_magic_rage-1-.png",
+              "skill_label": ["自動回復","手動觸發"],
               "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
+              "skill_name": "戰術詠唱·α型",
+              "skill_desc": "攻擊速度+10/50"
             }
           ],
           "story": ""
@@ -570,15 +633,7 @@
           "label": ["術師幹員","女性幹員","遠程位","新手"],
           "name": "杜林",
           "rating": 2,
-          "skill":[
-            {
-              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
-              "skill_label": ["自動回復","手動觸發","20/30秒"],
-              "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
-            }
-          ],
+          "skill":[],
           "story": ""
         },
         {
@@ -589,15 +644,7 @@
           "label": ["術師幹員","男性幹員","遠程位","新手"],
           "name": "12F",
           "rating": 2,
-          "skill":[
-            {
-              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
-              "skill_label": ["自動回復","手動觸發","20/30秒"],
-              "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
-            }
-          ],
+          "skill":[],
           "story": ""
         },
         {
