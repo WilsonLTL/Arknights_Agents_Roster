@@ -382,11 +382,25 @@
           "rating": 6,
           "skill":[
             {
-              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
-              "skill_label": ["自動回復","手動觸發","20/30秒"],
+              "skill_img": "https://img.moegirl.org/common/thumb/b/bf/Skill_icon_skchr_ifrit_1.png/80px-Skill_icon_skchr_ifrit_1.png",
+              "skill_label": ["自動回復","手動觸發"],
               "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
+              "skill_name": "狂熱",
+              "skill_desc": "攻擊力+10%/20%，攻擊速度+45/80"
+            },
+            {
+              "skill_img": "https://img.moegirl.org/common/thumb/a/ab/Skill_icon_skchr_ifrit_2.png/80px-Skill_icon_skchr_ifrit_2.png",
+              "skill_label": ["自動回復","自動觸發"],
+              "skill_cost": "9/7",
+              "skill_name": "炎爆",
+              "skill_desc": "下次攻擊造成相當於攻擊力130%/250%的法術傷害，命中目標在3秒內防禦力-100/200/300並持續受到灼燒傷害；可充能2/3次"
+            },
+            {
+              "skill_img": "https://img.moegirl.org/common/thumb/1/19/Skill_icon_skchr_ifrit_3.png/80px-Skill_icon_skchr_ifrit_3.png",
+              "skill_label": ["自動回復","自動觸發"],
+              "skill_cost": "40/28",
+              "skill_name": "灼地",
+              "skill_desc": "下次攻擊造成相當於攻擊力130%/250%的法術傷害，命中目標在3秒內防禦力-100/200/300並持續受到灼燒傷害；可充能2/3次"
             }
           ],
           "story": ""
@@ -657,11 +671,25 @@
           "rating": 6,
           "skill":[
             {
-              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
-              "skill_label": ["自動回復","手動觸發","20/30秒"],
-              "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
+              "skill_img": "https://img.moegirl.org/common/thumb/e/ec/Skill_icon_skcom_charge_cost3.png/80px-Skill_icon_skcom_charge_cost3.png",
+              "skill_label": ["自動回復","自動觸發"],
+              "skill_cost": "44/35",
+              "skill_name": "衝鋒號令·y型",
+              "skill_desc": "立即獲得12點部署費用"
+            },
+            {
+              "skill_img": "https://img.moegirl.org/common/thumb/3/3d/Skill_icon_skchr_siege_2.png/80px-Skill_icon_skchr_siege_2.png",
+              "skill_label": ["自動回復","自動觸發"],
+              "skill_cost": "12/10",
+              "skill_name": "躍空錘",
+              "skill_desc": "下次攻擊對四周所有敵人造成相當於攻擊力220%/340%的物理傷害，並獲得3點部署費用"
+            },
+            {
+              "skill_img": "https://img.moegirl.org/common/thumb/3/3b/Skill_icon_skchr_siege_3.png/80px-Skill_icon_skchr_siege_3.png",
+              "skill_label": ["自動回復","自動觸發"],
+              "skill_cost": "12/10",
+              "skill_name": "碎顱擊",
+              "skill_desc": "攻擊間隔增大，攻擊時攻擊力提高至260%/380%，並且有40%的概率擊暈目標0.5/1.5秒"
             }
           ],
           "story": ""
@@ -676,11 +704,18 @@
           "rating": 5,
           "skill":[
             {
-              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
-              "skill_label": ["自動回復","手動觸發","20/30秒"],
-              "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
+              "skill_img": "https://img.moegirl.org/common/thumb/e/ec/Skill_icon_skcom_charge_cost3.png/80px-Skill_icon_skcom_charge_cost3.png",
+              "skill_label": ["自動回復","自動觸發"],
+              "skill_cost": "44/35",
+              "skill_name": "衝鋒號令·y型",
+              "skill_desc": "立即獲得12點部署費用"
+            },
+            {
+              "skill_img": "https://img.moegirl.org/common/thumb/7/77/Skill_icon_skchr_texas_2.png/80px-Skill_icon_skchr_texas_2.png",
+              "skill_label": ["自動回復","自動觸發"],
+              "skill_cost": "40",
+              "skill_name": "劍雨",
+              "skill_desc": "立即獲得9/12點部署費用；對周圍所有敵人造成兩次相當於攻擊力105%/170%的法術傷害，並令擊中目標暈眩2/3秒技能作用範圍為"
             }
           ],
           "story": ""
@@ -695,11 +730,18 @@
           "rating": 5,
           "skill":[
             {
-              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
-              "skill_label": ["自動回復","手動觸發","20/30秒"],
-              "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
+              "skill_img": "https://img.moegirl.org/common/thumb/e/ec/Skill_icon_skcom_charge_cost3.png/80px-Skill_icon_skcom_charge_cost3.png",
+              "skill_label": ["自動回復","自動觸發"],
+              "skill_cost": "44/35",
+              "skill_name": "衝鋒號令·y型",
+              "skill_desc": "立即獲得12點部署費用"
+            },
+            {
+              "skill_img": "https://img.moegirl.org/common/thumb/4/4b/Skill_icon_skchr_headbr_2.png/80px-Skill_icon_skchr_headbr_2.png",
+              "skill_label": ["自動回復","手動觸發","10秒"],
+              "skill_cost": "45/35",
+              "skill_name": "烏薩斯戰吼",
+              "skill_desc": "技能持續時間內逐漸獲得9/12點部署費用，所有先鋒幹員攻擊力和防禦力+25%/60%，並在擊殺敵人時額外獲得1點部署費用"
             }
           ],
           "story": ""
@@ -714,11 +756,18 @@
           "rating": 5,
           "skill":[
             {
-              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
-              "skill_label": ["自動回復","手動觸發","20/30秒"],
-              "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
+              "skill_img": "https://img.moegirl.org/common/thumb/0/0a/Skill_icon_skcom_def_up3.png/80px-Skill_icon_skcom_def_up3.png",
+              "skill_label": ["自動回復","手動觸發","40秒"],
+              "skill_cost": "45/30",
+              "skill_name": "防禦力強化·y型",
+              "skill_desc": "防禦力+30%/100%"
+            },
+            {
+              "skill_img": "https://img.moegirl.org/common/thumb/7/70/Skill_icon_skchr_grani_2.png/80px-Skill_icon_skchr_grani_2.png",
+              "skill_label": ["自動回復","手動觸發","40秒"],
+              "skill_cost": "45/30",
+              "skill_name": "永不後退！",
+              "skill_desc": "技能持續時間內，格拉尼的攻擊距離縮短，攻擊力和防禦力+30%/+80%，阻擋數+1，同時攻擊阻擋的所有單位"
             }
           ],
           "story": ""
@@ -727,17 +776,24 @@
           "avatar": "https://img.moegirl.org/common/thumb/e/e7/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F%E5%85%88%E9%94%8B%E9%BB%91.png/50px-%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F%E5%85%88%E9%94%8B%E9%BB%91.png",
           "desc": "我來報到啦！你就是博士對吧？可以叫我桃金娘，杜林族的桃金娘。杜林說在這裡能找到工作，所以，有什麼我能做的事嗎？別看我個子小，我還挺厲害的哦。",
           "eName": "Myrtle",
-          "img": "https://i.imgur.com/dr3yzXW.png",
+          "img": "https://img.moegirl.org/common/thumb/7/75/Char_151_myrtle_2.png/800px-Char_151_myrtle_2.png",
           "label": ["資深幹員","先鋒幹員","女性幹員","近戰位","費用回復","治療","公開招募不可"],
           "name": "桃金娘",
           "rating": 5,
           "skill":[
             {
-              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
-              "skill_label": ["自動回復","手動觸發","20/30秒"],
-              "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
+              "skill_img": "",
+              "skill_label": ["自動回復","手動觸發","8秒"],
+              "skill_cost": "31/22",
+              "skill_name": "支援號令·β型",
+              "skill_desc": "停止攻擊，持續時間內回复總共14點部署費用"
+            },
+            {
+              "skill_img": "",
+              "skill_label": ["自動回復","手動觸發","16秒"],
+              "skill_cost": "35/24",
+              "skill_name": "治愈之翼",
+              "skill_desc": "停止攻擊，持續時間內回复總共16點部署費用，並每秒治療周圍一名友方單位相當於桃金孃攻擊力25%/50%的生命"
             }
           ],
           "story": ""
@@ -752,11 +808,18 @@
           "rating": 4,
           "skill":[
             {
-              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
-              "skill_label": ["自動回復","手動觸發","20/30秒"],
-              "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
+              "skill_img": "https://img.moegirl.org/common/thumb/0/04/Skill_icon_skcom_atk_up-2-.png/80px-Skill_icon_skcom_atk_up-2-.png",
+              "skill_label": ["自動回復","手動觸發","25秒"],
+              "skill_cost": "40/35",
+              "skill_name": "攻擊力強化·β型",
+              "skill_desc": "攻擊力+20%/80%"
+            },
+            {
+              "skill_img": "https://img.moegirl.org/common/thumb/f/fa/Skill_icon_skchr_vigna_2.png/80px-Skill_icon_skchr_vigna_2.png",
+              "skill_label": ["自動回復","手動觸發","25秒"],
+              "skill_cost": "35/25",
+              "skill_name": "槌音",
+              "skill_desc": "攻擊間隔略微增大，攻擊力+90%/200%"
             }
           ],
           "story": ""
@@ -771,11 +834,18 @@
           "rating": 4,
           "skill":[
             {
-              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
-              "skill_label": ["自動回復","手動觸發","20/30秒"],
-              "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
+              "skill_img": "https://img.moegirl.org/common/thumb/b/b6/Skill_icon_skcom_charge_cost-2-.png/80px-Skill_icon_skcom_charge_cost-2-.png",
+              "skill_label": ["自動回復","自動觸發"],
+              "skill_cost": "39/30",
+              "skill_name": "衝鋒號令·β型",
+              "skill_desc": "立即獲得9點部署費用"
+            },
+            {
+              "skill_img": "https://img.moegirl.org/common/thumb/3/3b/Skill_icon_skchr_scave_2.png/80px-Skill_icon_skchr_scave_2.png",
+              "skill_label": ["自動回復","手動觸發","15秒"],
+              "skill_cost": "40/30",
+              "skill_name": "衝鋒號令·攻擊",
+              "skill_desc": "立即獲得11點部署費用，攻擊力+20%/70%"
             }
           ],
           "story": ""
@@ -790,11 +860,18 @@
           "rating": 4,
           "skill":[
             {
-              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
+              "skill_img": "https://img.moegirl.org/common/thumb/b/b6/Skill_icon_skcom_charge_cost-2-.png/80px-Skill_icon_skcom_charge_cost-2-.png",
+              "skill_label": ["自動回復","自動觸發"],
+              "skill_cost": "39/30",
+              "skill_name": "衝鋒號令·β型",
+              "skill_desc": "立即獲得9點部署費用"
+            },
+            {
+              "skill_img": "https://img.moegirl.org/common/thumb/0/02/Skill_icon_skchr_blackd_2.png/80px-Skill_icon_skchr_blackd_2.png",
               "skill_label": ["自動回復","手動觸發","20/30秒"],
-              "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
+              "skill_cost": "40/30",
+              "skill_name": "衝鋒號令·防禦",
+              "skill_desc": "立即獲得3點部署費用，技能持續期間內逐漸獲得8點部署費用，防禦力+30%/80%"
             }
           ],
           "story": ""
@@ -809,11 +886,11 @@
           "rating": 3,
           "skill":[
             {
-              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
-              "skill_label": ["自動回復","手動觸發","20/30秒"],
-              "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
+              "skill_img": "https://img.moegirl.org/common/thumb/8/84/Skill_icon_skchr_wyvern_1.png/80px-Skill_icon_skchr_wyvern_1.png",
+              "skill_label": ["自動回復","手動觸發","10秒"],
+              "skill_cost": "25/20",
+              "skill_name": "衝鋒號令·援軍",
+              "skill_desc": "立即獲得6點部署費用，攻擊力+5%/35%"
             }
           ],
           "story": ""
@@ -828,11 +905,11 @@
           "rating": 3,
           "skill":[
             {
-              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
-              "skill_label": ["自動回復","手動觸發","20/30秒"],
-              "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
+              "skill_img": "https://img.moegirl.org/common/thumb/3/36/Skill_icon_skcom_quickattack-1-.png/80px-Skill_icon_skcom_quickattack-1-.png",
+              "skill_label": ["自動回復","手動觸發","25秒"],
+              "skill_cost": "55/45",
+              "skill_name": "迅捷打擊·α型",
+              "skill_desc": "攻擊力+6%/25%，攻擊速度+10/25"
             }
           ],
           "story": ""
@@ -847,11 +924,11 @@
           "rating": 3,
           "skill":[
             {
-              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
-              "skill_label": ["自動回復","手動觸發","20/30秒"],
-              "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
+              "skill_img": "https://img.moegirl.org/common/thumb/9/9b/Skill_icon_skcom_charge_cost-1-.png/80px-Skill_icon_skcom_charge_cost-1-.png",
+              "skill_label": ["自動回復","自動觸發"],
+              "skill_cost": "30/25",
+              "skill_name": "衝鋒號令·α型",
+              "skill_desc": "立即獲得6點部署費用"
             }
           ],
           "story": ""
@@ -864,15 +941,7 @@
           "label": ["先鋒幹員","女性幹員","近戰位","新手"],
           "name": "夜刀",
           "rating": 2,
-          "skill":[
-            {
-              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
-              "skill_label": ["自動回復","手動觸發","20/30秒"],
-              "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
-            }
-          ],
+          "skill":[],
           "story": ""
         },
         {

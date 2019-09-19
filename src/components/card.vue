@@ -44,7 +44,8 @@
                   </span>
                   </div>
                   <v-list-item-subtitle class="overline" v-text="'消耗:'+item.skill_cost"></v-list-item-subtitle>
-                  <v-list-item-text style="color: #BDBDBD;" class="overline" v-text="item.skill_name+' - '+item.skill_desc"></v-list-item-text>
+                  <v-list-item-text class="overline" v-text="item.skill_name"></v-list-item-text>
+                  <v-list-item-text style="color: #BDBDBD;" class="overline" v-text="item.skill_desc"></v-list-item-text>
                 </v-list-item-content>
               </v-list-item>
             </v-card>
