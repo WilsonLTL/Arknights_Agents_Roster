@@ -954,11 +954,25 @@
           "rating": 6,
           "skill":[
             {
-              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
-              "skill_label": ["自動回復","手動觸發","20/30秒"],
-              "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
+              "skill_img": "https://img.moegirl.org/common/thumb/8/89/Skill_icon_skchr_chen_1.png/80px-Skill_icon_skchr_chen_1.png",
+              "skill_label": ["攻擊回復","自動觸發"],
+              "skill_cost": "7/5",
+              "skill_name": "鞘擊",
+              "skill_desc": "下次攻擊使用刀鞘砸向敵人，造成相當於攻擊力200%/260%/的物理傷害，令命中目標眩暈1秒/1.5秒"
+            },
+            {
+              "skill_img": "https://img.moegirl.org/common/thumb/6/6a/Skill_icon_skchr_chen_2.png/80px-Skill_icon_skchr_chen_2.png",
+              "skill_label": ["攻擊回復","手動觸發"],
+              "skill_cost": "7/5",
+              "skill_name": "赤霄·拔刀",
+              "skill_desc": "對前方範圍最多4/6/名敵人造成相當於攻擊力330%/410%/的物理和相當於攻擊力330%/410%的法術傷害"
+            },
+            {
+              "skill_img": "https://img.moegirl.org/common/thumb/f/f6/Skill_icon_skchr_chen_3.png/80px-Skill_icon_skchr_chen_3.png",
+              "skill_label": ["攻擊回復","手動觸發"],
+              "skill_cost": "40/36",
+              "skill_name": "赤霄·絕影",
+              "skill_desc": "向周圍尋找最近的敵方目標，對其發動10次連續斬擊，每次造成相當於攻擊力200%/260%/的物理傷害，並在最後一擊時使目標眩暈2秒/3秒"
             }
           ],
           "story": ""
@@ -973,11 +987,25 @@
           "rating": 6,
           "skill":[
             {
-              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
-              "skill_label": ["自動回復","手動觸發","20/30秒"],
-              "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
+              "skill_img": "",
+              "skill_label": ["攻擊回復","手動觸發"],
+              "skill_cost": "4",
+              "skill_name": "強力擊·Y型",
+              "skill_desc": "下次攻擊的攻擊力提高至190%"
+            },
+            {
+              "skill_img": "",
+              "skill_label": ["自動回復","手動觸發"],
+              "skill_cost": "5",
+              "skill_name": "雪境生存法則",
+              "skill_desc": "可以在下列狀態和初始狀態間切換：攻擊範圍縮小，防禦力+35%，每秒恢復最大生命的3.0%"
+            },
+            {
+              "skill_img": "",
+              "skill_label": ["自動回復","手動觸發"],
+              "skill_cost": "90",
+              "skill_name": "真銀斬",
+              "skill_desc": "防禦力-70%，攻擊力+110%，攻擊範圍擴大，同時攻擊至多3個目標（視為近距離攻擊"
             }
           ],
           "story": ""
@@ -992,11 +1020,25 @@
           "rating": 6,
           "skill":[
             {
-              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
-              "skill_label": ["自動回復","手動觸發","20/30秒"],
-              "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
+              "skill_img": "",
+              "skill_label": ["自動回復","手動觸發","35秒"],
+              "skill_cost": "45/35",
+              "skill_name": "迅捷打擊·Y型",
+              "skill_desc": "攻擊力+20%/+45%，攻擊速度+20/+45"
+            },
+            {
+              "skill_img": "",
+              "skill_label": ["被動"],
+              "skill_cost": "無",
+              "skill_name": "躍浪擊",
+              "skill_desc": "部署後15/30秒內攻擊力+80%/+170%"
+            },
+            {
+              "skill_img": "",
+              "skill_label": ["自動回復","手動觸發","35/50秒"],
+              "skill_cost": "90",
+              "skill_name": "湧潮悲歌",
+              "skill_desc": "攻擊力、防禦力和生命上限各+70%/+130%"
             }
           ],
           "story": ""
@@ -1011,11 +1053,25 @@
           "rating": 6,
           "skill":[
             {
-              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
-              "skill_label": ["自動回復","手動觸發","20/30秒"],
-              "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
+              "skill_img": "",
+              "skill_label": ["自動回復","攻擊觸發"],
+              "skill_cost": "4/2",
+              "skill_name": "新月",
+              "skill_desc": "下次攻擊的攻擊力提升至110%/175%，並連續攻擊兩次"
+            },
+            {
+              "skill_img": "",
+              "skill_label": ["自動回復","手動觸發","10/13秒"],
+              "skill_cost": "35/25",
+              "skill_name": "弦月",
+              "skill_desc": "攻擊力+20%/80%，攻擊變為二連擊，獲得75%的物理閃避"
+            },
+            {
+              "skill_img": "",
+              "skill_label": ["自動回復","手動觸發","12/15秒"],
+              "skill_cost": "35/25",
+              "skill_name": "滿月",
+              "skill_desc": "攻擊力+40%/100%，攻擊範圍+1/2格，最多可以同時攻擊3個目標"
             }
           ],
           "story": ""
@@ -1030,11 +1086,18 @@
           "rating": 5,
           "skill":[
             {
-              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
-              "skill_label": ["自動回復","手動觸發","20/30秒"],
-              "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
+              "skill_img": "https://img.moegirl.org/common/thumb/5/5f/Skill_icon_skchr_swire_1.png/80px-Skill_icon_skchr_swire_1.png",
+              "skill_label": ["自動回復","手動觸發","15/35秒"],
+              "skill_cost": "60/40",
+              "skill_name": "指揮調度",
+              "skill_desc": "天賦生效範圍擴大/大幅度擴大，效果提升至2倍"
+            },
+            {
+              "skill_img": "https://img.moegirl.org/common/thumb/d/d6/Skill_icon_skchr_swire_2.png/80px-Skill_icon_skchr_swire_2.png",
+              "skill_label": ["攻擊回復","手動觸發","15/30秒"],
+              "skill_cost": "60/40",
+              "skill_name": "協同作戰",
+              "skill_desc": "攻擊力+30%/+80%，天賦效果提升至2.1/3倍"
             }
           ],
           "story": ""
