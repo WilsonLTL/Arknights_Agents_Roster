@@ -1112,11 +1112,18 @@
           "rating": 5,
           "skill":[
             {
-              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
-              "skill_label": ["自動回復","手動觸發","20/30秒"],
-              "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
+              "skill_img": "",
+              "skill_label": ["攻擊回復","自動觸發"],
+              "skill_cost": "5/3",
+              "skill_name": "強力擊▪β型",
+              "skill_desc": "下次攻擊的攻擊力提高至170%/230%"
+            },
+            {
+              "skill_img": "",
+              "skill_label": ["攻擊回復","自動觸發"],
+              "skill_cost": "20/17",
+              "skill_name": "微差爆破",
+              "skill_desc": "對前方三格範圍內至多3/5個敵人造成相當於攻擊力310%/400%物理傷害"
             }
           ],
           "story": ""
@@ -1131,11 +1138,18 @@
           "rating": 5,
           "skill":[
             {
-              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
+              "skill_img": "",
               "skill_label": ["自動回復","手動觸發","20/30秒"],
-              "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
+              "skill_cost": "45/35",
+              "skill_name": "迅捷打擊·γ型",
+              "skill_desc": "攻擊力+20%/45%，攻擊速度+20/45%"
+            },
+            {
+              "skill_img": "",
+              "skill_label": ["自動回復","手動觸發","20/30秒"],
+              "skill_cost": "20",
+              "skill_name": "極致鋒度",
+              "skill_desc": "防禦力降至0，攻擊力+50%/+100%，天賦無視防禦的概率提高至2.5倍"
             }
           ],
           "story": ""
@@ -1150,11 +1164,18 @@
           "rating": 5,
           "skill":[
             {
-              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
-              "skill_label": ["自動回復","手動觸發","20/30秒"],
-              "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
+              "skill_img": "",
+              "skill_label": ["攻擊回復","自動觸發"],
+              "skill_cost": "消耗40/33",
+              "skill_name": "日晷",
+              "skill_desc": "攻擊力+30%/55%，有20%/30%的概率抵擋物理傷害。持續時間無限"
+            },
+            {
+              "skill_img": "",
+              "skill_label": ["攻擊回復","自動觸發"],
+              "skill_cost": "消耗30/24",
+              "skill_name": "狼魂",
+              "skill_desc": "攻擊力+ 60%/90%，傷害類型變為法術，額外攻擊一個敵方目標，遠程攻擊不再降低攻擊力。"
             }
           ],
           "story": ""
@@ -1169,11 +1190,18 @@
           "rating": 5,
           "skill":[
             {
-              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
-              "skill_label": ["自動回復","手動觸發","20/30秒"],
-              "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
+              "skill_img": "https://img.moegirl.org/common/thumb/4/46/Skill_icon_skchr_tiger_1.png/80px-Skill_icon_skchr_tiger_1.png",
+              "skill_label": ["攻擊回復","自動觸發"],
+              "skill_cost": "4",
+              "skill_name": "碎甲拳",
+              "skill_desc": "下次攻擊的攻擊力+50%/140%，無視目標防禦35%/60%"
+            },
+            {
+              "skill_img": "https://img.moegirl.org/common/thumb/4/46/Skill_icon_skchr_tiger_1.png/80px-Skill_icon_skchr_tiger_1.png",
+              "skill_label": ["自動回復","手動觸發"],
+              "skill_cost": "50",
+              "skill_name": "裂魂",
+              "skill_desc": "攻擊力+50%/120%，傷害類型變為法術，每次攻擊恢復相當於造成傷害10%/25%的生命"
             }
           ],
           "story": ""
@@ -1188,11 +1216,18 @@
           "rating": 5,
           "skill":[
             {
-              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
-              "skill_label": ["自動回復","手動觸發","20/30秒"],
-              "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
+              "skill_img": "",
+              "skill_label": ["自動回復","手動觸發","30秒"],
+              "skill_cost": "40/30",
+              "skill_name": "攻擊力強化·γ型",
+              "skill_desc": "攻擊力+30%/+100%"
+            },
+            {
+              "skill_img": "",
+              "skill_label": ["自動回復","手動觸發","10/15秒"],
+              "skill_cost": "45/40",
+              "skill_name": "肉斬骨斷",
+              "skill_desc": "技能持續期間內幹員的生命值始終不會低於1，攻擊力+40%/160%,技能結束後幹員暈眩10秒"
             }
           ],
           "story": ""
@@ -1207,11 +1242,18 @@
           "rating": 5,
           "skill":[
             {
-              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
-              "skill_label": ["自動回復","手動觸發","20/30秒"],
-              "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
+              "skill_img": "https://img.moegirl.org/common/thumb/d/d6/Skill_icon_skchr_astesi_1.png/80px-Skill_icon_skchr_astesi_1.png",
+              "skill_label": ["自動回復","手動觸發","30秒"],
+              "skill_cost": "40/30",
+              "skill_name": "星座守護",
+              "skill_desc": "攻擊力+20%/+50%，防禦力+30%/+80%"
+            },
+            {
+              "skill_img": "https://img.moegirl.org/common/thumb/f/f1/Skill_icon_skchr_astesi_2.png/80px-Skill_icon_skchr_astesi_2.png",
+              "skill_label": ["自動回復","手動觸發","30秒"],
+              "skill_cost": "30/20",
+              "skill_name": "星輝劍",
+              "skill_desc": "攻擊力+30%/+80%，防禦力+30%/+80%，阻擋數+1，同時攻擊阻擋的所有敵人"
             }
           ],
           "story": ""
@@ -1227,10 +1269,17 @@
           "skill":[
             {
               "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
-              "skill_label": ["自動回復","手動觸發","20/30秒"],
-              "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
+              "skill_label": ["攻擊回復","自動觸發"],
+              "skill_cost": "5/3",
+              "skill_name": "強力擊·β型",
+              "skill_desc": "下次攻擊的攻擊力提高至170%/230%"
+            },
+            {
+              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
+              "skill_label": ["自動回復","手動觸發","25秒"],
+              "skill_cost": "80/70",
+              "skill_name": "鞭策",
+              "skill_desc": "攻擊力+30%/80%，天賦的效果提升至2.1/3倍"
             }
           ],
           "story": ""
@@ -1245,11 +1294,18 @@
           "rating": 4,
           "skill":[
             {
-              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
-              "skill_label": ["自動回復","手動觸發","20/30秒"],
-              "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
+              "skill_img": "",
+              "skill_label": ["被動"],
+              "skill_cost": "無",
+              "skill_name": "高機動",
+              "skill_desc": "獲得20%/45%的物理閃避"
+            },
+            {
+              "skill_img": "",
+              "skill_label": ["自動回復","手動觸發","10秒"],
+              "skill_cost": "40/20",
+              "skill_name": "急速拳",
+              "skill_desc": "攻擊間隔較减小/大幅度減小"
             }
           ],
           "story": ""
@@ -1264,11 +1320,18 @@
           "rating": 4,
           "skill":[
             {
-              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
-              "skill_label": ["自動回復","手動觸發","20/30秒"],
-              "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
+              "skill_img": "https://img.moegirl.org/common/thumb/0/04/Skill_icon_skcom_atk_up-2-.png/80px-Skill_icon_skcom_atk_up-2-.png",
+              "skill_label": ["自動回復","手動觸發"],
+              "skill_cost": "40/35",
+              "skill_name": "攻擊力強化·β型",
+              "skill_desc": "攻擊力+20%/80%"
+            },
+            {
+              "skill_img": "https://img.moegirl.org/common/thumb/e/e5/Skill_icon_skchr_estell_2.png/80px-Skill_icon_skchr_estell_2.png",
+              "skill_label": ["受擊回復","手動觸發"],
+              "skill_cost": "25/20",
+              "skill_name": "捨身突擊",
+              "skill_desc": "攻擊力+85%/150%，不再成為其他角色的治療目標"
             }
           ],
           "story": ""
@@ -1283,11 +1346,18 @@
           "rating": 4,
           "skill":[
             {
-              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
-              "skill_label": ["自動回復","手動觸發","20/30秒"],
-              "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
+              "skill_img": "https://img.moegirl.org/common/thumb/c/cc/Skill_icon_skchr_frncat_1.png/80px-Skill_icon_skchr_frncat_1.png",
+              "skill_label": ["攻擊回復","手動觸發"],
+              "skill_cost": "6/5",
+              "skill_name": "撓傷",
+              "skill_desc": "下次攻擊時攻擊力+30%/65%，5秒內時擊中目標攻擊力-15%/30%"
+            },
+            {
+              "skill_img": "https://img.moegirl.org/common/thumb/c/cc/Skill_icon_skchr_frncat_1.png/80px-Skill_icon_skchr_frncat_2.png",
+              "skill_label": ["自動回復","手動觸發"],
+              "skill_cost": "20/30",
+              "skill_name": "炸毛",
+              "skill_desc": "攻擊力和防禦力各+27%/45%"
             }
           ],
           "story": ""
@@ -1302,11 +1372,18 @@
           "rating": 4,
           "skill":[
             {
-              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
-              "skill_label": ["自動回復","手動觸發","20/30秒"],
-              "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
+              "skill_img": "https://img.moegirl.org/common/thumb/8/8f/Skill_icon_skchr_frostl_1.png/80px-Skill_icon_skchr_frostl_1.png",
+              "skill_label": ["自動回復","自動觸發"],
+              "skill_cost": "5/3",
+              "skill_name": "寒霜槍刃",
+              "skill_desc": "下次攻擊造成攻擊力105%/135%/150%的物理傷害，令命中目標在1.5/2.5/3秒內移動速度-20%/-35%/-50%"
+            },
+            {
+              "skill_img": "https://img.moegirl.org/common/thumb/8/8f/Skill_icon_skchr_frostl_1.png/80px-Skill_icon_skchr_frostl_2.png",
+              "skill_label": ["自動回復","手動觸發","25秒"],
+              "skill_cost": "60/50",
+              "skill_name": "凝冰槍刃",
+              "skill_desc": "攻擊速度+5/+35/+50；每次攻擊使命中目標移動速度-30%/-42%/-50%，並有15%/25%/40%的機率使其凍結（無法移動） 1.5秒/1.5秒/2秒"
             }
           ],
           "story": ""
@@ -1321,11 +1398,18 @@
           "rating": 4,
           "skill":[
             {
-              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
-              "skill_label": ["自動回復","手動觸發","20/30秒"],
-              "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
+              "skill_img": "https://img.moegirl.org/common/thumb/3/35/Skill_icon_skcom_heal_self-2-.png/80px-Skill_icon_skcom_heal_self-2-.png",
+              "skill_label": ["自動回復","手動觸發"],
+              "skill_cost": "30/20",
+              "skill_name": "生命回复·β型",
+              "skill_desc": "立即恢復最大生命的20%/50%"
+            },
+            {
+              "skill_img": "https://img.moegirl.org/common/thumb/2/29/Skill_icon_skchr_gyuki_2.png/80px-Skill_icon_skchr_gyuki_2.png",
+              "skill_label": ["自動回復","手動觸發"],
+              "skill_cost": "35/25",
+              "skill_name": "惡鬼之力",
+              "skill_desc": "防禦力降至0，攻擊力+75%/150%"
             }
           ],
           "story": ""
@@ -1340,11 +1424,11 @@
           "rating": 3,
           "skill":[
             {
-              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
-              "skill_label": ["自動回復","手動觸發","20/30秒"],
+              "skill_img": "https://img.moegirl.org/common/thumb/f/f0/Skill_icon_skcom_atk_up-1-.png/80px-Skill_icon_skcom_atk_up-1-.png",
+              "skill_label": ["自動回復","手動觸發"],
               "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
+              "skill_name": "攻擊力強化·α型",
+              "skill_desc": "攻擊力+10%/50%"
             }
           ],
           "story": ""
@@ -1359,11 +1443,11 @@
           "rating": 3,
           "skill":[
             {
-              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
-              "skill_label": ["自動回復","手動觸發","20/30秒"],
+              "skill_img": "https://img.moegirl.org/common/thumb/f/f0/Skill_icon_skcom_atk_up-1-.png/80px-Skill_icon_skcom_atk_up-1-.png",
+              "skill_label": ["自動回復","手動觸發"],
               "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
+              "skill_name": "攻擊力強化·α型",
+              "skill_desc": "攻擊力+10%/+50%"
             }
           ],
           "story": ""
@@ -1378,11 +1462,11 @@
           "rating": 3,
           "skill":[
             {
-              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
-              "skill_label": ["自動回復","手動觸發","20/30秒"],
-              "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
+              "skill_img": "https://img.moegirl.org/common/thumb/0/05/Skill_icon_skcom_enchant1.png/80px-Skill_icon_skcom_enchant1.png",
+              "skill_label": ["自動回復","手動觸發","30/40秒"],
+              "skill_cost": "80/70",
+              "skill_name": "武器附魔·α型",
+              "skill_desc": "攻擊力+5%/+35%，普通攻擊的傷害類型變為法術"
             }
           ],
           "story": ""
@@ -1395,15 +1479,7 @@
           "label": ["近衛幹員","男性幹員","近戰位","支援"],
           "name": "Castle-3",
           "rating": 1,
-          "skill":[
-            {
-              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
-              "skill_label": ["自動回復","手動觸發","20/30秒"],
-              "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
-            }
-          ],
+          "skill":[],
           "story": ""
         },
         {
@@ -1416,11 +1492,25 @@
           "rating": 6,
           "skill":[
             {
-              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
-              "skill_label": ["自動回復","手動觸發","20/30秒"],
-              "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
+              "skill_img": "https://img.moegirl.org/common/thumb/8/80/Skill_icon_skchr_demkni_1.png/80px-Skill_icon_skchr_demkni_1.png",
+              "skill_label": ["自動回復","自動觸發"],
+              "skill_cost": "6/4",
+              "skill_name": "急救",
+              "skill_desc": "下一次攻擊會為周圍血量不足一半的一名友方單位恢復相當於攻擊力110%/180%的生命；可充能1/3次"
+            },
+            {
+              "skill_img": "https://img.moegirl.org/common/thumb/e/e3/Skill_icon_skchr_demkni_2.png/80px-Skill_icon_skchr_demkni_2.png",
+              "skill_label": ["自動回復","自動觸發"],
+              "skill_cost": "10/7",
+              "skill_name": "藥物配置",
+              "skill_desc": "治療附近一定範圍內的所有友軍相當於塞雷婭攻擊力80%/140%的生命"
+            },
+            {
+              "skill_img": "https://img.moegirl.org/common/thumb/5/5a/Skill_icon_skchr_demkni_3.png/80px-Skill_icon_skchr_demkni_3.png",
+              "skill_label": ["自動回復","自動觸發"],
+              "skill_cost": "80",
+              "skill_name": "鈣質化",
+              "skill_desc": "附近所有友軍每秒回復相當於塞雷婭攻擊力10%/35%的生命；附近所有敵軍受到的法術傷害+20%/55%，移動速度-60%"
             }
           ],
           "story": ""
@@ -1440,6 +1530,20 @@
               "skill_cost": "50/40",
               "skill_name": "戰意",
               "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
+            },
+            {
+              "skill_img": "https://img.moegirl.org/common/thumb/3/33/Skill_icon_skchr_hsguma_2.png/80px-Skill_icon_skchr_hsguma_2.png",
+              "skill_label": ["被動"],
+              "skill_cost": "無",
+              "skill_name": "荊棘",
+              "skill_desc": "防禦力+5%/30%，每次受到攻擊時對目標造成相當於星熊攻擊力50%/100%的物理傷害"
+            },
+            {
+              "skill_img": "https://img.moegirl.org/common/thumb/5/55/Skill_icon_skchr_hsguma_3.png/80px-Skill_icon_skchr_hsguma_3.png",
+              "skill_label": ["自動回復","手動觸發","25秒"],
+              "skill_cost": "60/50",
+              "skill_name": "力之鋸",
+              "skill_desc": "攻擊力+65%/140%，防禦力+40/90%，對前方一格的所有敵人使用盾牌進行切割"
             }
           ],
           "story": ""
@@ -1454,11 +1558,18 @@
           "rating": 5,
           "skill":[
             {
-              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
-              "skill_label": ["自動回復","手動觸發","20/30秒"],
-              "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
+              "skill_img": "https://img.moegirl.org/common/thumb/4/40/Skill_icon_skchr_nearl_1.png/80px-Skill_icon_skchr_nearl_1.png",
+              "skill_label": ["自動回復","自動觸發"],
+              "skill_cost": "6/4",
+              "skill_name": "急救",
+              "skill_desc": "下一次攻擊會為周圍血量不足一半的一名友方單位恢復相當於攻擊力110%/180%的生命，可充能1/3次"
+            },
+            {
+              "skill_img": "https://img.moegirl.org/common/thumb/4/44/Skill_icon_skchr_nearl_2.png/80px-Skill_icon_skchr_nearl_2.png",
+              "skill_label": ["自動回復","手動觸發","40秒"],
+              "skill_cost": "60/40",
+              "skill_name": "急救模式",
+              "skill_desc": "攻擊力+20%/80%，停止攻擊並專心對友方角色進行治療"
             }
           ],
           "story": ""
@@ -1473,11 +1584,18 @@
           "rating": 5,
           "skill":[
             {
-              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
-              "skill_label": ["自動回復","手動觸發","20/30秒"],
-              "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
+              "skill_img": "https://img.moegirl.org/common/thumb/4/4b/Skill_icon_skchr_hpsts_1.png/80px-Skill_icon_skchr_hpsts_1.png",
+              "skill_label": ["自動回復","手動觸發"],
+              "skill_cost": "50",
+              "skill_name": "堅守模式",
+              "skill_desc": "阻擋數+1，防禦力+60%/90%/120%，每秒額外恢復最大生命的2%/5%"
+            },
+            {
+              "skill_img": "https://img.moegirl.org/common/thumb/3/37/Skill_icon_skchr_hpsts_2.png/80px-Skill_icon_skchr_hpsts_2.png",
+              "skill_label": ["自動回復","手動觸發"],
+              "skill_cost": "50",
+              "skill_name": "武力模式",
+              "skill_desc": "阻擋數-1，攻擊間隔略微增大，攻擊力+65%/150%，每次攻擊恢復自身最大生命值的5%/10%，同時攻擊阻擋的所有敵人"
             }
           ],
           "story": ""
@@ -1492,11 +1610,18 @@
           "rating": 5,
           "skill":[
             {
-              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
-              "skill_label": ["自動回復","手動觸發","20/30秒"],
-              "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
+              "skill_img": "https://img.moegirl.org/common/thumb/9/92/Skill_icon_skchr_moeshd_1.png/80px-Skill_icon_skchr_moeshd_1.png",
+              "skill_label": ["自動回復","自動觸發","20/30秒"],
+              "skill_cost": "30/20",
+              "skill_name": "自動防禦",
+              "skill_desc": "防禦力+20%/+70%，天賦效果提升至110%/200%。技能自動開啟"
+            },
+            {
+              "skill_img": "https://img.moegirl.org/common/thumb/9/9f/Skill_icon_skchr_moeshd_2.png/80px-Skill_icon_skchr_moeshd_2.png",
+              "skill_label": ["受擊回復","手動觸發"],
+              "skill_cost": "20/17",
+              "skill_name": "磁爆錘",
+              "skill_desc": "將周圍敵人中等力度地/較大力地/大力地彈開並擊暈2.5/4秒，造成相當於攻擊力240%/480%的物理傷害"
             }
           ],
           "story": ""
@@ -1511,11 +1636,18 @@
           "rating": 4,
           "skill":[
             {
-              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
-              "skill_label": ["自動回復","手動觸發","20/30秒"],
-              "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
+              "skill_img": "https://img.moegirl.org/common/thumb/3/3c/Skill_icon_skchr_sunbr_1.png/80px-Skill_icon_skchr_sunbr_1.png",
+              "skill_label": ["自動回復","自動觸發"],
+              "skill_cost": "7/4",
+              "skill_name": "備用軍糧",
+              "skill_desc": "下次攻擊會恢復附近一名友方角色相當於古米攻擊力95%/160%的生命值；可充能1/2/3次"
+            },
+            {
+              "skill_img": "https://img.moegirl.org/common/thumb/d/d8/Skill_icon_skchr_sunbr_2.png/80px-Skill_icon_skchr_sunbr_2.png",
+              "skill_label": ["自動回復","手動觸發"],
+              "skill_cost": "40/30",
+              "skill_name": "食糧烹製",
+              "skill_desc": "開始烹飪，10秒內停止攻擊敵人，防禦力+50%/80%；烹飪完成後專注於治療附近的友方角色，攻擊力+30%/80%"
             }
           ],
           "story": ""
@@ -1530,11 +1662,18 @@
           "rating": 4,
           "skill":[
             {
-              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
-              "skill_label": ["自動回復","手動觸發","20/30秒"],
-              "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
+              "skill_img": "https://img.moegirl.org/common/thumb/7/7c/Skill_icon_skchr_yak_1.png/80px-Skill_icon_skchr_yak_1.png",
+              "skill_label": ["自動回復","手動觸發"],
+              "skill_cost": "45/35",
+              "skill_name": "體能強化",
+              "skill_desc": "生命上限+20%/70%，每秒恢復20/40點生命"
+            },
+            {
+              "skill_img": "https://img.moegirl.org/common/thumb/7/7c/Skill_icon_skchr_yak_1.png/80px-Skill_icon_skchr_yak_1.png",
+              "skill_label": ["自動回復","手動觸發"],
+              "skill_cost": "50/32",
+              "skill_name": "抗寒體質",
+              "skill_desc": "生命上限+20%/50%，防禦力+10%/20%，法術抗性+50%/100%"
             }
           ],
           "story": ""
@@ -1549,11 +1688,18 @@
           "rating": 4,
           "skill":[
             {
-              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
-              "skill_label": ["自動回復","手動觸發","20/30秒"],
-              "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
+              "skill_img": "https://img.moegirl.org/common/thumb/2/23/Skill_icon_skcom_def_up-2-.png/80px-Skill_icon_skcom_def_up-2-.png",
+              "skill_label": ["自動回復","手動觸發","35秒"],
+              "skill_cost": "45/35",
+              "skill_name": "防禦力提升·β型",
+              "skill_desc": "防禦力+20%/50%/80%"
+            },
+            {
+              "skill_img": "https://img.moegirl.org/common/thumb/f/f4/Skill_icon_skchr_snakek_2.png/80px-Skill_icon_skchr_snakek_2.png",
+              "skill_label": ["自動回復","手動觸發","30秒"],
+              "skill_cost": "40",
+              "skill_name": "殼狀防禦",
+              "skill_desc": "停止攻擊敵人；阻擋數+1，防禦力+55%/130%，每秒恢復最大生命的1%/3%"
             }
           ],
           "story": ""
@@ -1568,11 +1714,11 @@
           "rating": 3,
           "skill":[
             {
-              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
-              "skill_label": ["自動回復","手動觸發","20/30秒"],
+              "skill_img": "https://img.moegirl.org/common/thumb/8/85/Skill_icon_skcom_def_up-1-.png/80px-Skill_icon_skcom_def_up-1-.png",
+              "skill_label": ["自動回復","手動觸發"],
               "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
+              "skill_name": "防禦力強化·α型",
+              "skill_desc": "防禦力+10%/50%"
             }
           ],
           "story": ""
@@ -1587,11 +1733,11 @@
           "rating": 3,
           "skill":[
             {
-              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
-              "skill_label": ["自動回復","手動觸發","20/30秒"],
-              "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
+              "skill_img": "https://img.moegirl.org/common/thumb/2/26/Skill_icon_skcom_heal_self-1-.png/80px-Skill_icon_skcom_heal_self-1-.png",
+              "skill_label": ["自動回復","手動觸發"],
+              "skill_cost": "26/20",
+              "skill_name": "生命回复·α型",
+              "skill_desc": "立即恢復最大生命的20%/40%"
             }
           ],
           "story": ""
@@ -1605,11 +1751,11 @@
           "rating": 3,
         "skill":[
           {
-            "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
-            "skill_label": ["自動回復","手動觸發","20/30秒"],
-            "skill_cost": "50/40",
-            "skill_name": "戰意",
-            "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
+            "skill_img": "https://img.moegirl.org/common/thumb/0/09/Skill_icon_skchr_spot_1.png/80px-Skill_icon_skchr_spot_1.png",
+            "skill_label": ["自動回復","手動觸發","15/25秒"],
+            "skill_cost": "40",
+            "skill_name": "次級治療模式",
+            "skill_desc": "攻擊力+15%/45%，停止攻擊並專心對周圍的友方角色進行治療"
           }
         ],
           "story": ""
@@ -1622,15 +1768,7 @@
           "label": ["重裝幹員","男性幹員","近戰位","新手"],
           "name": "黑角",
           "rating": 2,
-          "skill":[
-            {
-              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
-              "skill_label": ["自動回復","手動觸發","20/30秒"],
-              "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
-            }
-          ],
+          "skill":[],
           "story": ""
         },
         {
