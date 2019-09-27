@@ -2115,11 +2115,25 @@
           "rating": 6,
           "skill":[
             {
-              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
-              "skill_label": ["自動回復","手動觸發","20/30秒"],
-              "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
+              "skill_img": "https://img.moegirl.org/common/thumb/a/ac/Skill_icon_skchr_aglina_1.png/80px-Skill_icon_skchr_aglina_1.png",
+              "skill_label": ["攻擊回復","自動觸發","20/30秒"],
+              "skill_cost": "10",
+              "skill_name": "秘杖·速充模式",
+              "skill_desc": "攻擊力+40%/80%"
+            },
+            {
+              "skill_img": "https://img.moegirl.org/common/thumb/4/46/Skill_icon_skchr_aglina_2.png/80px-Skill_icon_skchr_aglina_2.png",
+              "skill_label": ["自動擊回復","手動觸發","20/26秒"],
+              "skill_cost": "20",
+              "skill_name": "秘杖·微粒模式",
+              "skill_desc": "攻擊間隔極大幅度縮短，但每次攻擊只能造成相當於攻擊力30%/40%的法術傷害。技能未開啟時無法普通攻擊"
+            },
+            {
+              "skill_img": "https://img.moegirl.org/common/thumb/a/a9/Skill_icon_skchr_aglina_3.png/80px-Skill_icon_skchr_aglina_3.png",
+              "skill_label": ["自動擊回復","手動觸發","10/18秒"],
+              "skill_cost": "25",
+              "skill_name": "秘杖·反重力模式",
+              "skill_desc": "全場所有敵人重量下降一個等級，攻擊範圍擴大，攻擊力+75%/105%，可以攻擊4/5個敵人。技能未開啟時無法普通攻擊"
             }
           ],
           "story": ""
@@ -2134,11 +2148,18 @@
           "rating": 5,
           "skill":[
             {
-              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
-              "skill_label": ["自動回復","手動觸發","20/30秒"],
-              "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
+              "skill_img": "https://img.moegirl.org/common/thumb/5/53/Skill_icon_skchr_glacus_1.png/80px-Skill_icon_skchr_glacus_1.png",
+              "skill_label": ["自動回復","手動觸發","16/25秒"],
+              "skill_cost": "35",
+              "skill_name": "雙線裝填",
+              "skill_desc": "攻擊力+20%/+50%，額外攻擊一個目標"
+            },
+            {
+              "skill_img": "https://img.moegirl.org/common/thumb/7/79/Skill_icon_skchr_glacus_2.png/80px-Skill_icon_skchr_glacus_2.png",
+              "skill_label": ["自動回復","手動觸發"],
+              "skill_cost": "40/30",
+              "skill_name": "反制電磁脈衝",
+              "skill_desc": "向周圍發射一道沖擊波，擊中的所有敵人受到攻擊力200%/400%的法術傷害並【凍結】（無法移動）3.5/6秒；如果目標是【無人機】，受到的傷害加倍並將效果改為【暈眩】"
             }
           ],
           "story": ""
@@ -2153,11 +2174,18 @@
           "rating": 5,
           "skill":[
             {
-              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
-              "skill_label": ["自動回復","手動觸發","20/30秒"],
-              "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
+              "skill_img": "https://img.moegirl.org/common/thumb/6/6a/Skill_icon_skchr_slbell_1.png/80px-Skill_icon_skchr_slbell_1.png",
+              "skill_label": ["自動回復","手動觸發"],
+              "skill_cost": "40",
+              "skill_name": "傳音迴響",
+              "skill_desc": "同時攻擊2個目標，攻擊範圍內所有敵人攻擊速度-30/60"
+            },
+            {
+              "skill_img": "https://img.moegirl.org/common/thumb/d/d3/Skill_icon_skchr_slbell_2.png/80px-Skill_icon_skchr_slbell_2.png",
+              "skill_label": ["自動回復","手動觸發"],
+              "skill_cost": "40",
+              "skill_name": "自然震懾",
+              "skill_desc": "攻擊範圍內所有敵人防禦力-35%/60%，法術抗性-20%/30%"
             }
           ],
           "story": ""
@@ -2172,11 +2200,18 @@
           "rating": 5,
           "skill":[
             {
-              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
-              "skill_label": ["自動回復","手動觸發","20/30秒"],
-              "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
+              "skill_img": "https://img.moegirl.org/common/thumb/f/f5/Skill_icon_skchr_otter_1.png/80px-Skill_icon_skchr_otter_1.png",
+              "skill_label": ["被動"],
+              "skill_cost": "無",
+              "skill_name": "迷惑裝置",
+              "skill_desc": "所有機械水獺獲得10%/25%/35%的物理和法術閃避，機械水獺周圍四格的友軍也獲得同樣的效果"
+            },
+            {
+              "skill_img": "https://img.moegirl.org/common/thumb/7/77/Skill_icon_skchr_otter_2.png/80px-Skill_icon_skchr_otter_2.png",
+              "skill_label": ["自動回復","手動觸發"],
+              "skill_cost": "40/30",
+              "skill_name": "爆破回收",
+              "skill_desc": "立即引爆所有配置的機械水獺，爆炸時對周圍敵人造成相當於梅爾攻擊力300%/450%/600%的法術傷害，並使所有命中目標暈眩1/1/2秒，被引爆的機械水獺會被回收"
             }
           ],
           "story": ""
@@ -2191,11 +2226,18 @@
           "rating": 5,
           "skill":[
             {
-              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
-              "skill_label": ["自動回復","手動觸發","20/30秒"],
-              "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
+              "skill_img": "https://img.moegirl.org/common/thumb/9/9d/Skill_icon_skchr_sora_1.png/80px-Skill_icon_skchr_sora_1.png",
+              "skill_label": ["自動回復","手動觸發"],
+              "skill_cost": "60",
+              "skill_name": "睡眠之歌",
+              "skill_desc": "攻擊範圍擴大，攻擊範圍內所有敵人全部進入睡眠（眩暈+無敵），同時特性效果提高至45%/100%"
+            },
+            {
+              "skill_img": "https://img.moegirl.org/common/thumb/3/35/Skill_icon_skchr_sora_2.png/80px-Skill_icon_skchr_sora_2.png",
+              "skill_label": ["自動回復","手動觸發"],
+              "skill_cost": "45",
+              "skill_name": "戰鬥之歌",
+              "skill_desc": "攻擊範圍內所有其他友方單位的攻擊力額外加上空自身攻擊力的70%/100%"
             }
           ],
           "story": ""
@@ -2210,11 +2252,18 @@
           "rating": 5,
           "skill":[
             {
-              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
-              "skill_label": ["自動回復","手動觸發","20/30秒"],
+              "skill_img": "https://img.moegirl.org/common/thumb/b/b3/Skill_icon_skchr_glassb_1.png/80px-Skill_icon_skchr_glassb_1.png",
+              "skill_label": ["自動回復","手動觸發"],
               "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
+              "skill_name": "專心致志",
+              "skill_desc": "攻擊間隔縮短/極大幅度縮短"
+            },
+            {
+              "skill_img": "https://img.moegirl.org/common/thumb/9/98/Skill_icon_skchr_glassb_2.png/80px-Skill_icon_skchr_glassb_2.png",
+              "skill_label": ["自動回復","手動觸發"],
+              "skill_cost": "50",
+              "skill_name": "文學風暴",
+              "skill_desc": "攻擊力+20%/75%，攻擊範圍擴大，額外攻擊1/2個目標"
             }
           ],
           "story": ""
@@ -2229,11 +2278,18 @@
           "rating": 4,
           "skill":[
             {
-              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
-              "skill_label": ["自動回復","手動觸發","20/30秒"],
-              "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
+              "skill_img": "https://img.moegirl.org/common/thumb/0/04/Skill_icon_skcom_atk_up-2-.png/80px-Skill_icon_skcom_atk_up-2-.png",
+              "skill_label": ["自動回復","手動觸發"],
+              "skill_cost": "40/35",
+              "skill_name": "攻擊力強化·β型",
+              "skill_desc": "攻擊力+20%/80%"
+            },
+            {
+              "skill_img": "https://img.moegirl.org/common/thumb/0/0b/Skill_icon_skchr_skgoat_2.png/80px-Skill_icon_skchr_skgoat_2.png",
+              "skill_label": ["自動回復","手動觸發"],
+              "skill_cost": "60/40",
+              "skill_name": "流沙化",
+              "skill_desc": "停止攻擊；攻擊範圍內的敵方單位每1.8/1.4秒受到一次停頓效果"
             }
           ],
           "story": ""
@@ -2248,11 +2304,18 @@
           "rating": 4,
           "skill":[
             {
-              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
-              "skill_label": ["自動回復","手動觸發","20/30秒"],
-              "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
+              "skill_img": "https://img.moegirl.org/common/thumb/3/38/Skill_icon_skchr_deepcl_1.png/80px-Skill_icon_skchr_deepcl_1.png",
+              "skill_label": ["自動回復","手動觸發"],
+              "skill_cost": "40/30",
+              "skill_name": "光影之觸",
+              "skill_desc": "所有觸手攻擊力和防禦力+15%/60%，每秒恢復30/70點生命"
+            },
+            {
+              "skill_img": "https://img.moegirl.org/common/thumb/4/41/Skill_icon_skchr_deepcl_2.png/80px-Skill_icon_skchr_deepcl_2.png",
+              "skill_label": ["自動回復","手動觸發"],
+              "skill_cost": "80",
+              "skill_name": "視覺陷阱",
+              "skill_desc": "攻擊範圍擴大，攻擊範圍內的友方單位獲得25%/35%/50%的物理閃避"
             }
           ],
           "story": ""
@@ -2267,11 +2330,11 @@
           "rating": 3,
           "skill":[
             {
-              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
-              "skill_label": ["自動回復","手動觸發","20/30秒"],
-              "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
+              "skill_img": "https://img.moegirl.org/common/thumb/3/36/Skill_icon_skcom_quickattack-1-.png/80px-Skill_icon_skcom_quickattack-1-.png",
+              "skill_label": ["自動回復","手動觸發"],
+              "skill_cost": "55/45",
+              "skill_name": "迅捷打擊·α型",
+              "skill_desc": "攻擊力+6%/25%，攻擊速度+10/25"
             }
           ],
           "story": ""
