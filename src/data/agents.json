@@ -2349,11 +2349,18 @@
           "rating": 5,
           "skill":[
             {
-              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
-              "skill_label": ["自動回復","手動觸發","20/30秒"],
-              "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
+              "skill_img": "https://zh.moegirl.org/File:Skill_icon_skchr_panda_1.png",
+              "skill_label": ["自動回復","自動觸發"],
+              "skill_cost": "6/5",
+              "skill_name": "鐵意六合",
+              "skill_desc": "下次攻擊會把目標往攻擊方向小力地/中等力度地/較大力地推動，3秒/4秒/5秒內命中目標的移動速度-15%/30%"
+            },
+            {
+              "skill_img": "https://zh.moegirl.org/File:Skill_icon_skchr_panda_2.png",
+              "skill_label": ["自動回復","手動觸發"],
+              "skill_cost": "20/15",
+              "skill_name": "崩拳式",
+              "skill_desc": "立即往前方突進，尋找前方直線內的最近目標，中等力度地/較大力地/大力地擊退該目標周圍的所有敵軍，造成相當於攻擊力160%/250%的物理傷害，在3秒/4秒/5秒內所有命中目標的移動速度-15%/30%"
             }
           ],
           "story": ""
@@ -2368,11 +2375,18 @@
           "rating": 5,
           "skill":[
             {
-              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
-              "skill_label": ["自動回復","手動觸發","20/30秒"],
-              "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
+              "skill_img": "https://img.moegirl.org/common/9/90/Skill_icon_skchr_red_1.png",
+              "skill_label": ["被動"],
+              "skill_cost": "無",
+              "skill_name": "處決模式",
+              "skill_desc": "部署後攻擊力+35%/80%，並獲得20%/50%物理閃避"
+            },
+            {
+              "skill_img": "https://img.moegirl.org/common/f/f9/Skill_icon_skchr_red_2.png",
+              "skill_label": ["被動"],
+              "skill_cost": "無",
+              "skill_name": "狼群",
+              "skill_desc": "部署後立即對周圍所有敵人造成相當於攻擊力140%/250%的物理傷害，並使命中目標暈眩1/3秒"
             }
           ],
           "story": ""
@@ -2387,11 +2401,18 @@
           "rating": 5,
           "skill":[
             {
-              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
-              "skill_label": ["自動回復","手動觸發","20/30秒"],
-              "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
+              "skill_img": "https://img.moegirl.org/common/thumb/b/bf/Skill_icon_skchr_slchan_1.png/80px-Skill_icon_skchr_slchan_1.png",
+              "skill_label": ["自動回復","自動觸發"],
+              "skill_cost": "7/4",
+              "skill_name": "鎖鏈勾爪",
+              "skill_desc": "下次攻擊會將目標小力地/較大力地拖拽至面前，並對其造成相當於攻擊力115%/180%的法術傷害"
+            },
+            {
+              "skill_img": "https://img.moegirl.org/common/thumb/5/51/Skill_icon_skchr_rope_2.png/80px-Skill_icon_skchr_rope_2.png",
+              "skill_label": ["自動回復","自動觸發"],
+              "skill_cost": "25/15",
+              "skill_name": "束縛鏈",
+              "skill_desc": "立即將前方大範圍內至多2/3個目標小力地/中等力度地/較大力地拖拽至面前，對其造成相當於自己攻擊力130%/170%/200%的無視防禦與法術抗性的傷害，並使其暈眩1.5/3秒"
             }
           ],
           "story": ""
@@ -2406,11 +2427,18 @@
           "rating": 5,
           "skill":[
             {
-              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
-              "skill_label": ["自動回復","手動觸發","20/30秒"],
+              "skill_img": "https://img.moegirl.org/common/thumb/c/cf/Skill_icon_skchr_mantic_1.png/80px-Skill_icon_skchr_mantic_1.png",
+              "skill_label": ["被動"],
               "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
+              "skill_name": "蠍毒",
+              "skill_desc": "每次攻擊會在3/4/5秒內令命中目標移動速度-23%/50%"
+            },
+            {
+              "skill_img": "https://img.moegirl.org/common/thumb/5/5e/Skill_icon_skchr_mantic_2.png/80px-Skill_icon_skchr_mantic_2.png",
+              "skill_label": ["自動回復","手動觸發"],
+              "skill_cost": "20",
+              "skill_name": "蓄力毒尾擊",
+              "skill_desc": "攻擊前搖和攻擊間隔增大，攻擊力+30%/60%/90%，使命中目標暈眩0.5/0.7/1.0秒"
             }
           ],
           "story": ""
@@ -2425,11 +2453,18 @@
           "rating": 4,
           "skill":[
             {
-              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
-              "skill_label": ["自動回復","手動觸發","20/30秒"],
-              "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
+              "skill_img": "https://img.moegirl.org/common/thumb/9/90/Skill_icon_skchr_rope_1.png/80px-Skill_icon_skchr_rope_1.png",
+              "skill_label": ["自動回復","自動觸發"],
+              "skill_cost": "7/6",
+              "skill_name": "鉤爪發射",
+              "skill_desc": "下次攻擊會把目標小力地拖拽至面前，並對其造成相當於攻擊力100%/160%的物理傷害"
+            },
+            {
+              "skill_img": "https://img.moegirl.org/common/thumb/5/51/Skill_icon_skchr_rope_2.png/80px-Skill_icon_skchr_rope_2.png",
+              "skill_label": ["自動回復","自動觸發"],
+              "skill_cost": "25/19",
+              "skill_name": "複式勾爪",
+              "skill_desc": "將遠距離內兩個敵人小力地拖拽至面前，並對其造成相當於攻擊力120%/180%的物理傷害"
             }
           ],
           "story": ""
@@ -2444,11 +2479,18 @@
           "rating": 4,
           "skill":[
             {
-              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
-              "skill_label": ["自動回復","手動觸發","20/30秒"],
-              "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
+              "skill_img": "https://img.moegirl.org/common/thumb/4/40/Skill_icon_skchr_sqrrel_1.png/80px-Skill_icon_skchr_sqrrel_1.png",
+              "skill_label": ["自動回復","自動觸發"],
+              "skill_cost": "6/5",
+              "skill_name": "水蒸汽泵",
+              "skill_desc": "下次攻擊會把目標往攻擊方向小力地/中等力度地/較大力地推開，並造成相當於攻擊力105%/135%/150%的物理傷害"
+            },
+            {
+              "skill_img": "https://img.moegirl.org/common/thumb/d/d6/Skill_icon_skchr_sqrrel_2.png/80px-Skill_icon_skchr_sqrrel_2.png",
+              "skill_label": ["自動回復","自動觸發"],
+              "skill_cost": "20/17",
+              "skill_name": "高壓水泵",
+              "skill_desc": "立即將前方兩格內所有敵人往攻擊方向小力地/較大力地/較大力地推開，並造成相當於攻擊力180%/300%的物理傷害"
             }
           ],
           "story": ""
@@ -2459,17 +2501,9 @@
           "eName": "Conviction",
           "img": "http://p5.qhimg.com/dr/1280__/t01652651a567920b87.png",
           "label": ["特種干員","女性幹員","當前暫不實裝"],
-          "name": "",
+          "name": "斷罪者",
           "rating": 4,
-          "skill":[
-            {
-              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
-              "skill_label": ["自動回復","手動觸發","20/30秒"],
-              "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
-            }
-          ],
+          "skill":[],
           "story": ""
         },
         {
@@ -2482,11 +2516,18 @@
           "rating": 4,
           "skill":[
             {
-              "skill_img": "https://img.moegirl.org/common/thumb/f/f3/Skill_icon_skchr_hsguma_1.png/80px-Skill_icon_skchr_hsguma_1.png",
-              "skill_label": ["自動回復","手動觸發","20/30秒"],
-              "skill_cost": "50/40",
-              "skill_name": "戰意",
-              "skill_desc": "防禦力+35%/80%，攻擊力+10%/40%"
+              "skill_img": "https://img.moegirl.org/common/thumb/7/7c/Skill_icon_skchr_gravel_1.png/80px-Skill_icon_skchr_gravel_1.png",
+              "skill_label": ["被動"],
+              "skill_cost": "無",
+              "skill_name": "影襲",
+              "skill_desc": "部署后防禦力+200%/340%/400%，在6/12秒內持續衰減"
+            },
+            {
+              "skill_img": "https://img.moegirl.org/common/thumb/f/fd/Skill_icon_skchr_gravel_2.png/80px-Skill_icon_skchr_gravel_2.png",
+              "skill_label": ["被動"],
+              "skill_cost": "無",
+              "skill_name": "鼠群",
+              "skill_desc": "部署後獲得可吸收相當於自己最大生命100%/250%的護盾，該護盾會在10/10秒內持續衰減"
             }
           ],
           "story": ""

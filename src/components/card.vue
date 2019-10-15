@@ -51,7 +51,7 @@
             </v-card>
           </v-col>
         </div>
-      </div>
+      /div>
     </v-expand-transition>
   </v-card>
 </template>
